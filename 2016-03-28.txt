@@ -1,0 +1,10 @@
+# CS 327E Notes for 2016-03-28
+
+ * Submit your proposal (see the project spec for instructions) if you haven't already
+ * Create a **visible** team on GitHub and add your members to it
+   * [Link](https://help.github.com/articles/creating-a-team/)
+
+ * Add your team name to the bottom of the Google Doc if you need help
+ * You should be working on M3 - Computer Setup
+   * Each member should have their own public **Hello World** GitHub repo on their own account
+   * Each team should have one private repo for the project under the **cs327e-spring2016** account
